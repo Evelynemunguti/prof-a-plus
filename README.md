@@ -2,7 +2,6 @@
 
 A modern, responsive one-page website for **PROF. A+**, designed to help students quickly access academic and IT support services through WhatsApp.
 
----
 
 ## About PROF. A+
 
@@ -14,7 +13,6 @@ This project is a **conversion-focused landing page** built to:
 
 The design is clean, mobile-first and optimized for performance and simplicity.
 
----
 
 ## Features
 
@@ -34,19 +32,15 @@ The design is clean, mobile-first and optimized for performance and simplicity.
 * CSS3 (Flexbox + Grid)
 * JavaScript (Vanilla JS)
 
----
 
 ## Project Structure
 
-```
 prof-a-plus/
 │── index.html
 │── style.css
 │── script.js
 │── images/
-```
 
----
 
 ## WhatsApp Integration
 

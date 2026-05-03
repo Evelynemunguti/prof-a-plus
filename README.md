@@ -32,9 +32,13 @@ The design is clean, mobile-first and optimized for performance and simplicity.
 ## Project Structure
 
 prof-a-plus/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── images/
 
 ## WhatsApp Integration
